@@ -1,9 +1,9 @@
 # Olá,👋 
 ## Eu sou o Pedro Henrique Doin
 - 🎓 Bacharel em Análise e Desenvolvimento de Sistemas (Unisociesc)
-- 💻 Trabalho com React, TypeScript e JavaScript
+- 💻 Trabalho com React, TypeScript e JavaScript, Python
 - 🗄️ Construindo aplicações com Supabase e MySQL
-- 📚 Estudando Java, Spring Boot e banco de dados para vagas de desenvolvedor backend júnior
+- 📚 Estudando Java, Spring Boot e banco de dados para vagas de desenvolvedor de Software
 - 📍 Joinville, SC
 
 ## 🌐 Onde me encontrar
